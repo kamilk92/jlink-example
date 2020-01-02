@@ -1,0 +1,3 @@
+rootProject.name = 'jlinkexample'
+include 'restapi'
+include 'runner'
